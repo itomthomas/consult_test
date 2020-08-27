@@ -447,6 +447,12 @@ section {
   transition: ease-in-out 0.3s;
 }
 
+.services .icon-box h4 a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 .services .icon-box p {
   line-height: 24px;
   font-size: 14px;
