@@ -447,6 +447,7 @@ section {
   transition: ease-in-out 0.3s;
 }
 
+/* Tom addition - Hover Link */
 .services .icon-box h4 a:hover {
   color: red;
   background-color: transparent;
@@ -649,6 +650,12 @@ section {
 
 .contact .php-email-form input {
   height: 44px;
+}
+/* Tom addition - Hover Link */
+.contact .php-email-form .checkME {
+  height: 0.1px;
+  padding-bottom: 0.1px;
+  transform: scale(0);
 }
 
 .contact .php-email-form textarea {
