@@ -1,4 +1,0 @@
-
-
-
-git push https://itomthomas:Logmeout%40123@github.com/itomthomas/consult.git
